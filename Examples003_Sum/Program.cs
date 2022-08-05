@@ -1,5 +1,6 @@
-﻿// Create programm sum two numbers
+﻿// Create programm суммы two numbers
 int numberA = 3;
 int numberB = 5;
-Console.WriteLine(numberA + numberB);
+int sum = numberA + numberB;
+Console.WriteLine(sum);
 
